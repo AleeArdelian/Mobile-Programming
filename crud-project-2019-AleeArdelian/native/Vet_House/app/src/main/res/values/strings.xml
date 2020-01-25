@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vet_House</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="buna_seara">Buna seara</string>
+    <string name="our_doctors">Our Doctors</string>
+    <string name="username">  Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="pet_s_appointments">Pet`s appointments</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="doctor_name">Doctor name</string>
+    <string name="speciality">Speciality</string>
+    <string name="add_doctor">Add doctor</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_doctor">Update doctor</string>
+    <string name="i_am_a_doctor">I am a doctor</string>
+    <string name="select_date">Select date</string>
+    <string name="medical_check">Medical check</string>
+    <string name="add_date">Add date</string>
+    <string name="register">Register</string>
+</resources>
